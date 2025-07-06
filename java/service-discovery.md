@@ -1683,6 +1683,7 @@ public class ConsulHealthIndicator implements HealthIndicator {
         }
     }
 }
+```
 
 ### Advantages
 - **Language agnostic** (supports multiple programming languages)
