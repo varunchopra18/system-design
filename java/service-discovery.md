@@ -679,7 +679,8 @@ public class ServiceCallInterceptor implements ClientHttpRequestInterceptor {
         return host != null ? host : "unknown";
     }
 }
-```# Service Discovery in Java: Eureka vs Consul
+```
+# Service Discovery in Java: Eureka vs Consul
 
 ## Overview
 
